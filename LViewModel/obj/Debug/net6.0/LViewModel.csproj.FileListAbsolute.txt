@@ -1,0 +1,11 @@
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\bin\Debug\net6.0\LViewModel.deps.json
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\bin\Debug\net6.0\LViewModel.dll
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\bin\Debug\net6.0\LViewModel.pdb
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\obj\Debug\net6.0\LViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\obj\Debug\net6.0\LViewModel.AssemblyInfoInputs.cache
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\obj\Debug\net6.0\LViewModel.AssemblyInfo.cs
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\obj\Debug\net6.0\LViewModel.csproj.CoreCompileInputs.cache
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\obj\Debug\net6.0\LViewModel.dll
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\obj\Debug\net6.0\refint\LViewModel.dll
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\obj\Debug\net6.0\LViewModel.pdb
+C:\Users\stega\Documents\Project\Cursos\intro\LViewModel\obj\Debug\net6.0\ref\LViewModel.dll

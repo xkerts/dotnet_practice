@@ -1,0 +1,15 @@
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\bin\Debug\net6.0\LNegocio.deps.json
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\bin\Debug\net6.0\LNegocio.dll
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\bin\Debug\net6.0\LNegocio.pdb
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\bin\Debug\net6.0\LDatos.dll
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\bin\Debug\net6.0\LDatos.pdb
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\LNegocio.csproj.AssemblyReference.cache
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\LNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\LNegocio.AssemblyInfoInputs.cache
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\LNegocio.AssemblyInfo.cs
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\LNegocio.csproj.CoreCompileInputs.cache
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\LNegocio.csproj.CopyComplete
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\LNegocio.dll
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\refint\LNegocio.dll
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\LNegocio.pdb
+C:\Users\stega\Documents\Project\Cursos\intro\LNegocio\obj\Debug\net6.0\ref\LNegocio.dll
